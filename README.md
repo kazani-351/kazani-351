@@ -10,6 +10,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="Solidity Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="Yarn Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Yarn Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/blogger-1.svg" alt="Yarn Logo" width="50" height="50" />
 
+---
 
 📗 Latest Blog Articles
 
