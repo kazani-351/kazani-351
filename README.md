@@ -8,7 +8,7 @@ Web3 Dev | BNB Chain Advocate | Digital Marketing | Blogger | Copywriter
 * 🖥️  See my portfolio at [adilkazani.com](http://adilkazani.com)
 * 🧠  I'm learning Cryptography
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  Fulfilling One-Meal-A-Day for 11 years :) #ForChildrenMalnutrition
+* ⚡  Fulfilling self-promise "One-Meal-A-Day" for 11 years :) #ForChildrenMalnutrition
 
 <a href="https://www.twitter.com/kazani351" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kazani351?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
