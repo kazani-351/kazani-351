@@ -5,7 +5,7 @@ Web3 Developer | BNB Chain Advocate | AI Prompt Expert | Digital Marketing | Blo
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [adilkazani.com](http://adilkazani.com)
+* 🖥️  See my portfolio at [adilkazani.com](http://adilkazani.com); Join my newsletter: [BlogChain](https://paragraph.xyz/@kazani/subscribe)
 * 🧠  I'm learning Cryptography
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Fulfilling self-promise "One-Meal-A-Day" since 11 years :) #ForChildrenMalnutrition
