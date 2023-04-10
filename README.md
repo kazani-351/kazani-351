@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adil Kazani
 ===================================================================================================================================
 
-Web3 Dev | BNB Chain Advocate | Digital Marketing | Blogger | Copywriter
+Web3 Developer | BNB Chain Advocate | AI Prompt Expert | Digital Marketing | Blogger 
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in India
