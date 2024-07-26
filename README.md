@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adil Kazani
 ===================================================================================================================================
 
-Web3 Developer | BNB Chain Advocate | AI Prompt Expert | Digital Marketing | Blogger 
+Blockchain Developer & Privacy Advocate 
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [adilkazani.com](http://adilkazani.com); Join my newsletter: [BlogChain](https://paragraph.xyz/@kazani/subscribe)
 * 🧠  I'm learning Blockchain Cryptography & Smart Contracts Audit.
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  Fulfilling self-promise "One-Meal-A-Day" since 11 years :) #ForChildrenMalnutrition
+* ⚡  Fulfilling self-promise "One-Meal-A-Day" since 12 years :) #ForChildrenMalnutrition
 
 <a href="https://www.twitter.com/kazani351" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kazani351?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
