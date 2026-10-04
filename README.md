@@ -6,6 +6,7 @@ low-vision neighbours, district health officers.
 
 **Shipped**
 
+**[linkcheck](https://github.com/kazani-351/linkcheck-mcp)**: an MCP server that tells an AI agent where a link really goes and whether it's safe, before anyone clicks it. [Live](https://linkcheck-mcp.kazani.workers.dev)
 - **[Ask BlogChain](https://github.com/kazani-351/ask-blogchain)**: ask my newsletter archive a question and get an answer that cites the exact posts. Agentic RAG with LangGraph, traced in Langfuse, built in four measured stages.
 - **[Jan Swasth Map](https://github.com/kazani-351/jan-swasth-map)**: forecasts seasonal dengue and diarrhoea risk for India's districts and drafts a response plan with an AI agent. [Live](https://jan-swasth-map.kazani.workers.dev)
 - **[Baton](https://github.com/kazani-351/baton-webmcp)**: a WebMCP store where an AI agent proposes each action and you confirm it before anything happens.
